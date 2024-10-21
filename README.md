@@ -1,5 +1,5 @@
 # nlp_processes
-You can install via `pip`:
+You can install it via `pip`:
 ````
 pip install nlp-processes
 ````
