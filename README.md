@@ -2,12 +2,12 @@
 
 Before installing this package make sure you have installed the `requirements` below:
 ````
-`numpy`
-`pandas`
-`tqdm`
-`spacy`
-`spacy-cleaner`
-`torch`
+numpy
+pandas
+tqdm
+spacy
+spacy-cleaner
+torch
 ````
 and also the spacy's transformer based language model:
 ````python -m spacy download en_core_web_trf````
