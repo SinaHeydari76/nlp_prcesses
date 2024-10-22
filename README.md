@@ -6,7 +6,8 @@ Before installing this package make sure you have installed the `requirements` b
 `spacy`
 `spacy-cleaner`
 `torch`
-
+and also the spacy's transformer based language model:
+`python -m spacy download en_core_web_trf`
 # nlp_processes
 You can install it via `pip`:
 ````
