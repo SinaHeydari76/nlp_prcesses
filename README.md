@@ -1,4 +1,4 @@
-Before installing this package make sure you have installed the requirements below:
+Before installing this package make sure you have installed the `requirements` below:
 
 `numpy`
 `pandas`
