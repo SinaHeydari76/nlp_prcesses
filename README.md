@@ -10,7 +10,9 @@ spacy-cleaner
 torch
 ````
 and also the spacy's transformer based language model:
-````python -m spacy download en_core_web_trf````
+````
+python -m spacy download en_core_web_trf
+````
 
 You can install it via `pip`:
 ````
