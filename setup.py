@@ -21,7 +21,7 @@ setup(
     install_requires=[
         'numpy',
         'pandas',
-        'spacy>=3.0.0',
+        'spacy',
         'matplotlib',
         'spacy_cleaner',
         'tqdm'
