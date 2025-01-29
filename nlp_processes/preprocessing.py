@@ -9,7 +9,7 @@ import spacy as sp
 import spacy_cleaner as spc
 from spacy_cleaner.processing import mutators, removers
 
-language_model = sp.load('en_core_web_trf')
+language_model = sp.load('en_core_web_lg')
 
 # %%
 def lowercase(series):
