@@ -12,7 +12,7 @@ class PostInstallCommand(install):
             subprocess.check_call([sys.executable, "-m", "pip", "install", "spacy"])
         except subprocess.CalledProcessError:
             print("Failed to install SpaCy")
-        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_trf"])
+        subprocess.check_call([sys.executable, "-m", "spacy", "download", "en_core_web_lg"])
 
 setup(
     name='nlp_processes',
